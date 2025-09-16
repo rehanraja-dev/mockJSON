@@ -1,0 +1,28 @@
+{
+  "matches": [
+    {
+      "id": "law_it_act_66d",
+      "score": 0.91,
+      "metadata": {
+        "title": "Section 66D IT Act – Cheating by Personation",
+        "text": "Whoever cheats by personation using computer resources shall be punished with imprisonment up to three years and a fine up to one lakh rupees."
+      }
+    },
+    {
+      "id": "law_ipc_420",
+      "score": 0.88,
+      "metadata": {
+        "title": "Section 420 IPC – Cheating and Dishonestly Inducing Delivery of Property",
+        "text": "Cheating and dishonestly inducing a person to deliver property is punishable with imprisonment up to seven years and fine."
+      }
+    },
+    {
+      "id": "law_ipc_468",
+      "score": 0.76,
+      "metadata": {
+        "title": "Section 468 IPC – Forgery for Purpose of Cheating",
+        "text": "Whoever commits forgery, intending that the document forged shall be used for the purpose of cheating, shall be punished with imprisonment up to seven years and fine."
+      }
+    }
+  ]
+}
