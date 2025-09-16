@@ -1,0 +1,28 @@
+{
+  "matches": [
+    {
+      "id": "law_ipc_354a",
+      "score": 0.87,
+      "metadata": {
+        "title": "Section 354A IPC – Sexual Harassment",
+        "text": "Any unwelcome sexually coloured remarks or repeated attempts to contact a person electronically may fall under sexual harassment laws."
+      }
+    },
+    {
+      "id": "law_ipc_503",
+      "score": 0.83,
+      "metadata": {
+        "title": "Section 503 IPC – Criminal Intimidation",
+        "text": "Whoever threatens another with injury to person, reputation or property with intent to cause alarm commits criminal intimidation."
+      }
+    },
+    {
+      "id": "law_it_act_66e",
+      "score": 0.79,
+      "metadata": {
+        "title": "Section 66E IT Act – Violation of Privacy",
+        "text": "Capturing, publishing or transmitting images of a private area of any person without consent is punishable under the IT Act."
+      }
+    }
+  ]
+}
