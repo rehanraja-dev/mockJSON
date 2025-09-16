@@ -1,0 +1,20 @@
+{
+  "matches": [
+    {
+      "id": "law_it_act_66c",
+      "score": 0.92,
+      "metadata": {
+        "title": "Section 66C – Identity Theft",
+        "text": "Whoever fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person shall be punished with imprisonment up to three years and a fine up to one lakh rupees."
+      }
+    },
+    {
+      "id": "law_it_act_66d",
+      "score": 0.81,
+      "metadata": {
+        "title": "Section 66D – Cheating by Personation",
+        "text": "Whoever, by means of any communication device or computer resource, cheats by personation shall be punished with imprisonment up to three years and a fine up to one lakh rupees."
+      }
+    }
+  ]
+}
