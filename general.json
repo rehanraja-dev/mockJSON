@@ -1,28 +1,8 @@
 {
-  "matches": [
-    {
-      "id": "law_it_act_43",
-      "score": 0.72,
-      "metadata": {
-        "title": "Section 43 IT Act – Penalty for Damage to Computer, Computer System",
-        "text": "If any person without permission accesses, downloads, disrupts or causes damage to a computer system or network, they shall be liable to pay damages by way of compensation."
-      }
-    },
-    {
-      "id": "law_it_act_67",
-      "score": 0.68,
-      "metadata": {
-        "title": "Section 67 IT Act – Publishing Obscene Material in Electronic Form",
-        "text": "Whoever publishes or transmits obscene material in electronic form shall be punished with imprisonment up to three years and fine up to five lakh rupees."
-      }
-    },
-    {
-      "id": "law_ipc_505",
-      "score": 0.64,
-      "metadata": {
-        "title": "Section 505 IPC – Statements Conducing to Public Mischief",
-        "text": "Whoever makes, publishes or circulates any statement, rumour or report with intent to incite public mischief or fear is punishable under this section."
-      }
-    }
+  "category": "general",
+  "steps": [
+    "Please describe your issue in detail.",
+    "You can also check cybercrime.gov.in for general guidance.",
+    "If it feels urgent or unsafe, contact local police immediately."
   ]
 }
