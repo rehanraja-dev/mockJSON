@@ -1,8 +1,15 @@
 {
   "category": "general",
-  "steps": [
-    "Please describe your issue in detail.",
-    "You can also check cybercrime.gov.in for general guidance.",
-    "If it feels urgent or unsafe, contact local police immediately."
+  "resources": [
+    {
+      "title": "Know Your Digital Rights",
+      "description": "Basic legal awareness for Indian citizens about online safety and reporting mechanisms.",
+      "url": "https://www.india.gov.in/official-portal"
+    },
+    {
+      "title": "Legal Aid Helpline",
+      "description": "National Legal Services Authority helpline for free legal help.",
+      "url": "https://nalsa.gov.in/"
+    }
   ]
 }
